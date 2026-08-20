@@ -1,0 +1,39 @@
+Linux – Commands
+
+System Utility Commands
+-	pwd
+-	cd
+-	uname
+-	hostname
+-	uptime
+-	date
+-	cal
+-	whoami
+-	w
+-	id
+-	who
+-	last
+
+Cpu & Memory
+-	lscpu
+-	free -h
+-	htop
+-	top
+-	vmstat
+-	df -h
+
+File System Management
+-	ls – list  #show list of contents
+-	touch <file-name> - will create empty files
+-	touch <f1, f2, f3, f4> - will create multiple files at once
+-	mkdir <folder-name> - will create a empty folder
+-	mkdir <f1, f2, f3> - will create multiple folders
+-	rm – removes files
+-	rmdir – removes empty folders 
+-	rm -rf -   deletes files and folders 
+-	echo – will read input to output 
+-	cat <file-name> - will read contnt from file
+-	cat > file-name – we can add content to the file with cat
+-	cat f1 f2 f3 > f4 – we can combine content from multiple files into 1 
+
+Editors 
