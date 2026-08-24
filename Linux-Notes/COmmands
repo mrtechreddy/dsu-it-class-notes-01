@@ -36,4 +36,16 @@ File System Management
 -	cat > file-name – we can add content to the file with cat
 -	cat f1 f2 f3 > f4 – we can combine content from multiple files into 1 
 
-Editors 
+Copying and Moving Files
+
+- cp file /path - will create a duplicate file in new loc
+- cp file file1 - will create a duplicate file with new name
+- mv file /path - will move the original to the new loc
+- mv file new-file - changes name of the file
+
+
+
+
+
+
+
